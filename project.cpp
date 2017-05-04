@@ -1,5 +1,5 @@
 
-// Name        : opencv1.cpp
+// Name        : project.cpp
 // Author      : Vlad Mariano
 // Version     : 24 April 2017
 // Description : This is a simple motion tracker that is packaged in a class
